@@ -1,3 +1,5 @@
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
+
 ## Chain store data scraper
 
 Collects data from supermarkets into a standardised analysable format
